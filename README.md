@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A passionate Programmer | Freelancer | Content Writer | Learner</h3>
+(https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali785&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali785" /> </p>
 
