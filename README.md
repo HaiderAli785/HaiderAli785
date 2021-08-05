@@ -1,5 +1,5 @@
 
-<img src ="https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg"/></a>
+<img src ="https://1.bp.blogspot.com/-SSRfIfOQz1g/YQuHya799aI/AAAAAAAAAAM/rldJjzismQIntxESPAQjzEyxMX6hNT0RQCLcBGAsYHQ/s1584/Colorful%2BTechnology%2Band%2BComputers%2BLinkedIn%2BBanner.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A passionate Programmer | Freelancer | Content Writer | Learner</h3>
