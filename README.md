@@ -1,5 +1,5 @@
 
-<img src ="https://1.bp.blogspot.com/-UxxgJfoIWCE/YQuRiCeliEI/AAAAAAAAAAU/F9cfTimEoOIhfAIqKIp2L1Uv184O0xe5wCLcBGAsYHQ/s1584/Colorful%2BTechnology%2Band%2BComputers%2BLinkedIn%2BBanner%2B%25281%2529.png"/></a>
+<img src ="https://1.bp.blogspot.com/-UBoOB8R0pUQ/YQur0icTI4I/AAAAAAAAAAc/Jd67akbVT4Ay19deOdgOScl8FaylnR7uACLcBGAsYHQ/s1500/_Banner5555.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A boy who loves to explore new things and empower others!!</h3>
