@@ -1,5 +1,5 @@
 
-<img src ="https://1.bp.blogspot.com/-SSRfIfOQz1g/YQuHya799aI/AAAAAAAAAAM/rldJjzismQIntxESPAQjzEyxMX6hNT0RQCLcBGAsYHQ/s1584/Colorful%2BTechnology%2Band%2BComputers%2BLinkedIn%2BBanner.png"/></a>
+<img src ="https://1.bp.blogspot.com/-UxxgJfoIWCE/YQuRiCeliEI/AAAAAAAAAAU/F9cfTimEoOIhfAIqKIp2L1Uv184O0xe5wCLcBGAsYHQ/s1584/Colorful%2BTechnology%2Band%2BComputers%2BLinkedIn%2BBanner%2B%25281%2529.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A passionate Programmer | Freelancer | Content Writer | Learner</h3>
