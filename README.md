@@ -2,7 +2,7 @@
 <img src ="https://1.bp.blogspot.com/-UxxgJfoIWCE/YQuRiCeliEI/AAAAAAAAAAU/F9cfTimEoOIhfAIqKIp2L1Uv184O0xe5wCLcBGAsYHQ/s1584/Colorful%2BTechnology%2Band%2BComputers%2BLinkedIn%2BBanner%2B%25281%2529.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">A passionate Programmer | Freelancer | Content Writer | Learner</h3>
+<h3 align="center">A boy who loves to explore new things and empower others!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali785&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali785" /> </p>
 
 
