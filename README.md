@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://haidercs92.blogspot.com/](https://haidercs92.blogspot.com/)
+- 👨‍💻 You can also check out my portfolio at [https://haidercs92.blogspot.com/](https://haidercs92.blogspot.com/)
 
 - 📝 I regularly write articles on [https://Kamiyabee.blogspot.com](https://Kamiyabee.blogspot.com)
 
