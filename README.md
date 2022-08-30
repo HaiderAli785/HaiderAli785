@@ -7,9 +7,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=β%20Student%20Ambassador%20at%20Microsoft;Content%20Writer%20At%20MLSA%20ISB;%20CS%20Sophomore;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali785&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali785" /> </p>
-
 - 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
 
 - 📫 How to reach me haiderali920687@gmail.com
