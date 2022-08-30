@@ -1,8 +1,13 @@
 
 <img src ="https://1.bp.blogspot.com/-UBoOB8R0pUQ/YQur0icTI4I/AAAAAAAAAAc/Jd67akbVT4Ay19deOdgOScl8FaylnR7uACLcBGAsYHQ/s1500/_Banner5555.png"/></a>
 
-<h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">A boy who loves to explore new things and empower others!!</h3>
+<h1 align="center">  Hi, I'm Haider Ali! </h1>
+
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=β%20Student%20Ambassador%20at%20Microsoft;Content%20Writer%20At%20MLSA%20ISB;%20CS%20Sophomore;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali785&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali785" /> </p>
 
 - 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
