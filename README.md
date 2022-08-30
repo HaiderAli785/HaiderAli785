@@ -48,7 +48,7 @@
 <a href = "https://linktr.ee/haiderali920687"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj2JjeLTl_kpVvfZVFH8XCN3j8--GVPjCaK--KaNTgJJnWO3KHvxPfxaoun9SGpNRXPhG9WW_ZnhWSTyhlQlXwy-JVfOMe_fuaW8KH67UNw5oTTIaAw48Ki1CM7XHM46sgH1MAWt8ymWDAJB01agup65QHUWJhqoOJEmxb6eGo1ajJHWUrQ6EqqBJ7k"/ width = 48px></a>
 <a href = "https://twitter.com/haideralispeaks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<p><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200'></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderali920687&show_icons=true&locale=en&layout=compact" alt="haiderali920687" /></p>
 
