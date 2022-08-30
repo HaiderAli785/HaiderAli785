@@ -55,7 +55,7 @@
 
 <h2 align="center"> Stats </h2>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='250'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='220'>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderali920687&show_icons=true&locale=en&layout=compact" alt="haiderali920687" /></p>
 
