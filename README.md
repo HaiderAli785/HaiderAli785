@@ -10,29 +10,46 @@
 
 <p align="left"> <a href="https://twitter.com/haidera12201045" target="blank"><img src="https://img.shields.io/twitter/follow/haidera12201045?logo=twitter&style=for-the-badge" alt="haidera12201045" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
 
-- 🌱 I’m currently learning **Java**
+- 📫 How to reach me haiderali920687@gmail.com
 
-- 👨‍💻 You can also check out my portfolio at [https://haidercs92.blogspot.com/](https://haidercs92.blogspot.com/)
+- 🔭 I’m currently working on Python.
 
-- 📝 I regularly write articles on [https://problemsolvingbyjava.blogspot.com/](https://problemsolvingbyjava.blogspot.com/)
+- 🌱 I’m currently learning Java.
 
-- 📫 How to reach me **haiderali920687@gmail.com**
+- 👯 I’m looking to collaborate on open source.
 
-- ⚡ Fun fact **I think I am funny**
+- 💬 Ask me about ... Anything
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
+
+- 📝 I regularly write articles on https://problemsolvingbyjava.blogspot.com/
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/HaiderAliSpeaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haidera12201045" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haiderali920687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haiderali920687" height="30" width="40" /></a>
-<a href="https://medium.com/@haiderali920687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haiderali920687" height="30" width="40" /></a>
+<a href = "https://www.instagram.com/haideralispeaks/"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgnhK-glS5v-LnxnZW08FvKXjBizMQh6aSfXdPxc1aKEH7SWgLRLYEtVRO-73rNeI4TqDHiQdiRWjommr-2-aakw9X8kdgSBB2CeQ2WK7QbB-jUD_FI9mJMSb9dMS9bSoZOmLiKJvhf4x_Fla5bieHHd6iIQ-z7UvwG3Z5_P58nJYFoQcuoFvSotLJD"/width = 48px></a> 
+<a href = "https://problemsolvingbyjava.blogspot.com/"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjWIxKK5jwgpC0DVpY7J3h7JNUIF5N_UeAB0Jhj5eARGFZ7r6BuXKblFa5Ol9rVXLX5fnvs1DxeE1di-beJ65KQcBNNhy0ccNs2hw6ytq5ujRT2_7piza0Tc_W6ICcaAUPHFsCalxcIBQuV8t9j-iNcZnRO35Nd8QGimHx6l9qbno51pudUIlibI9yn"/width = 48px></a>
+<a href = "https://medium.com/@haiderali920687"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEiNEfmbJaslXW1FX8-uCJmqdczdWDyds06xvKBGkV3_Aby8axdHH4Q_RLgzTobxw838Co9r8FHyoWaTd-0uOOIPtS4mEibVwpSJicoXnj-SnewzwG8Pryywro5ZMCsouIGgk4X3amdSAFpm4VuhxCOwZ_0ryc9hMCmJuI1Db3o0kiEqYKZB7OLo74iG"/width = 48px></a>
+<a href = "https://linkedin.com/in/haiderali920687"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://stackoverflow.com/users/16567868/haider-ali"><img src="https://img.icons8.com/fluent/48/000000/stack-overflow.png"/></a>
+<a href = "https://linktr.ee/haiderali920687"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj2JjeLTl_kpVvfZVFH8XCN3j8--GVPjCaK--KaNTgJJnWO3KHvxPfxaoun9SGpNRXPhG9WW_ZnhWSTyhlQlXwy-JVfOMe_fuaW8KH67UNw5oTTIaAw48Ki1CM7XHM46sgH1MAWt8ymWDAJB01agup65QHUWJhqoOJEmxb6eGo1ajJHWUrQ6EqqBJ7k"/ width = 48px></a>
+<a href = "https://twitter.com/haideralispeaks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/C++-02569B?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-2F0909?style=for-the-badge&logo=Adobeillustrator&logoColor=yellow" />
+<img src="https://img.shields.io/badge/VS-Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderali920687&show_icons=true&locale=en&layout=compact" alt="haiderali920687" /></p>
 
